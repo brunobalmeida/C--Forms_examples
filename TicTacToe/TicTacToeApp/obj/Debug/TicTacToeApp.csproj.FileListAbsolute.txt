@@ -1,0 +1,10 @@
+C:\Users\dbrun\Desktop\GithubTempFolder\Object oriented Gaming\TicTacToe\TicTacToeApp\obj\Debug\TicTacToeApp.Properties.Resources.resources
+C:\Users\dbrun\Desktop\GithubTempFolder\Object oriented Gaming\TicTacToe\TicTacToeApp\obj\Debug\TicTacToeApp.csproj.GenerateResource.Cache
+C:\Users\dbrun\Desktop\GithubTempFolder\Object oriented Gaming\TicTacToe\TicTacToeApp\obj\Debug\TicTacToeApp.csproj.CoreCompileInputs.cache
+C:\Users\dbrun\Desktop\GithubTempFolder\Object oriented Gaming\TicTacToe\TicTacToeApp\bin\Debug\TicTacToeApp.exe.config
+C:\Users\dbrun\Desktop\GithubTempFolder\Object oriented Gaming\TicTacToe\TicTacToeApp\bin\Debug\TicTacToeApp.exe
+C:\Users\dbrun\Desktop\GithubTempFolder\Object oriented Gaming\TicTacToe\TicTacToeApp\bin\Debug\TicTacToeApp.pdb
+C:\Users\dbrun\Desktop\GithubTempFolder\Object oriented Gaming\TicTacToe\TicTacToeApp\obj\Debug\TicTacToeApp.exe
+C:\Users\dbrun\Desktop\GithubTempFolder\Object oriented Gaming\TicTacToe\TicTacToeApp\obj\Debug\TicTacToeApp.pdb
+C:\Users\dbrun\Desktop\GithubTempFolder\Object oriented Gaming\TicTacToe\TicTacToeApp\obj\Debug\TicTac.TicTacToe.resources
+C:\Users\dbrun\Desktop\GithubTempFolder\Object oriented Gaming\TicTacToe\TicTacToeApp\obj\Debug\TicTacToeApp.csprojResolveAssemblyReference.cache
